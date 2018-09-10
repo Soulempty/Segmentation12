@@ -1,0 +1,3 @@
+/home/chao/ICNet-master/evaluation/seg_test/CMakeFiles/edit_cache.dir
+/home/chao/ICNet-master/evaluation/seg_test/CMakeFiles/rebuild_cache.dir
+/home/chao/ICNet-master/evaluation/seg_test/CMakeFiles/seg_infer.dir

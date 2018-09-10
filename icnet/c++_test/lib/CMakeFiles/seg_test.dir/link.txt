@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libseg_test.so -o libseg_test.so CMakeFiles/seg_test.dir/seg_test.cpp.o 
